@@ -3,4 +3,7 @@ rm -r dist || mkdir dist &&\
   npm run babel -- src -d dist --ignore test.js,templates/,fixtures/ &&\
   npm run copy:templates &&\
   cp package.json dist &&\
-  cp README.md dist
+  cp README.md dist &&\
+  cp LICENSE dist &&\
+  cp CHANGELOG.md dist &&\
+  cp TODO.md dist
