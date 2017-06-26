@@ -55,7 +55,7 @@ import api from 'shared/api';`;
     .mergeMap(action => {
       // Do stuff with your action here.
       // If you have another epic pattern you would like us to include,
-      // feel free to open up an issue at https://github.com/arbolista-dev/generator-spike/issues
+      // feel free to open up an issue at https://github.com/AnalyticsFire/generator-spike/issues
     });`;
 
     const epicsExport =
