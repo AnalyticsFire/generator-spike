@@ -1,6 +1,6 @@
 {
   "name": "generator-spike",
-  "version": "0.0.1-beta.5",
+  "version": "0.0.1-beta.6",
   "description": "Generator for React apps, reducers, components, and mock api.",
   "scripts": {
     "lint": "eslint src . --fix",
