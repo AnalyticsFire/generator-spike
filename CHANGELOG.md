@@ -1,11 +1,13 @@
 ## Change Log
 
-### 0.0.1-beta.4 (2017/06/26 02:06 +00:00)
+### v0.0.1-beta.2 (2017/06/19 05:55 +00:00)
 - [#22](https://github.com/AnalyticsFire/generator-spike/pull/22) create publish script (@Arbolista)
 - [#19](https://github.com/AnalyticsFire/generator-spike/pull/19) bump to beta, doc clarifications, remove code climate (@Arbolista)
 - [#18](https://github.com/AnalyticsFire/generator-spike/pull/18) Integration tests (@Arbolista)
 - [#16](https://github.com/AnalyticsFire/generator-spike/pull/16) create codeclimate config (@Arbolista)
 - [#15](https://github.com/AnalyticsFire/generator-spike/pull/15) [WIP] Feature/subgenerators (@Arbolista)
+
+### v0.0.1-alpha.6 (2017/05/28 06:46 +00:00)
 - [#13](https://github.com/AnalyticsFire/generator-spike/pull/13) fix to get default storage from cookie (@daruj)
 - [#9](https://github.com/AnalyticsFire/generator-spike/pull/9) Fix/routes (@Arbolista, @daruj)
 - [#7](https://github.com/AnalyticsFire/generator-spike/pull/7) Feature/i18n (@Arbolista, @daruj)
